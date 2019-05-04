@@ -18,10 +18,10 @@ before login:
 ![before_login](./images/before_login.jpg)
 after login:
 ![after_login](./images/after_login.jpg)
-looking through by categories & create news:
-<img src="./images/cate_create.jpg" width = "400" alt="by category"/>
-news details:
-<img src="./images/details.jpg" width = "600" alt="by category"/>
+looking through by categories & create news:<br>
+<img src="./images/cate_create.jpg" width = "400" alt="by category"/> <br>
+news details:<br>
+<img src="./images/details.jpg" width = "600" alt="news details"/>
 
 ### About APP
 
