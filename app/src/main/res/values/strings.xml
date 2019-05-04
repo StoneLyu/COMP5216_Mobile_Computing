@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">NewsMap</string>
+    <string name="title_home">News</string>
+    <string name="title_dashboard">Post+</string>
+    <string name="title_notifications">Me</string>
+    <string name="title_news_list">News List</string>
+    <string name="title_bookmark_list">Bookmark List</string>
+    <string name="title_web_view">Detail</string>
+    <string name="title_login">Log in</string>
+    <string name="title_register">Register</string>
+    <string name="title_postnews">Post news</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="info_not_logged_in">Not logged in</string>
+    <string name="info_login_req">Please log into system first.</string>
+
+    <string name="news_add_category">Select category (%s)</string>
+    <string name="news_add_photo">Choose Photo (%d)</string>
+    <string name="news_add_location">Update Location (%s)</string>
+
+    <string name="tab_news_list">Feed</string>
+    <string name="tab_bookmark_list">Bookmark</string>
+    <string name="tab_my_post">MyPosts</string>
+    <string name="tab_menu_setting">Profile</string>
+
+
+    <string name="gps_prompt">GPS is not on, do you want to turn it on?</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+       
+    <string-array name="category_list">     
+        <item>SydUni</item>       
+        <item>Sydney</item>       
+        <item>Transport</item>       
+        <item>Activity</item>       
+        <item>NSW</item>       
+        <item>Health</item>       
+        <item>Entertainment</item>   
+    </string-array>
+
+    <string-array name="category_id_list">       
+        <item>5b99fac2c5fda55c3852ef22</item>       
+        <item>5b99faf7c5fda55c3852ef23</item> 
+        <item>5b99fc02c5fda55c3852ef26</item> 
+        <item>5bc45eb852bb4ba86a38dbbc</item>   
+        <item>5bc45eb852bb4ba86a38dbbd</item>     
+        <item>5b99faf7c5fda55c3852ef25</item>     
+        <item>5bc45eb852bb4ba86a38dbbf</item>   
+    </string-array>
+
+</resources>
